@@ -1,6 +1,4 @@
-﻿
-
-//1 ввод массива с клавиатуры
+﻿//1 ввод массива с клавиатуры
 static string[] InputStringArray()
 {
   Console.WriteLine("Введите размер массива");

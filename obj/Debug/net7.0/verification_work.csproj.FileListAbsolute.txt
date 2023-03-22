@@ -1,0 +1,15 @@
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\bin\Debug\net7.0\verification_work.exe
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\bin\Debug\net7.0\verification_work.deps.json
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\bin\Debug\net7.0\verification_work.runtimeconfig.json
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\bin\Debug\net7.0\verification_work.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\bin\Debug\net7.0\verification_work.pdb
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.csproj.AssemblyReference.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.GeneratedMSBuildEditorConfig.editorconfig
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.AssemblyInfoInputs.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.AssemblyInfo.cs
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.csproj.CoreCompileInputs.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\refint\verification_work.dll
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.pdb
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\verification_work.genruntimeconfig.cache
+J:\УЧЕБА ГИК БРЕЙНС\languages\verification_work\obj\Debug\net7.0\ref\verification_work.dll

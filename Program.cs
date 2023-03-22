@@ -21,29 +21,30 @@ void PrintArray (string [] array)
 }
 
 //3 проверка длины элементов массива
-string [] CheckStringArray (string [] array)
+string[] CheckStringArray(string[] array)
 {
-int size = array.Length; 
-string [] newarray = new string [size];
-for (int i = 0; i < size; i++)
-{
-  if (array[i].Length>3)
+  System.Console.WriteLine
+  ("массив, состоящий из строк, длина которых меньше, либо равна 3:");
+  int size = array.Length;
+  string[] newarray = new string[size];
+  for (int i = 0; i < size; i++)
   {
-    continue;
+    if (array[i].Length > 3)
+    {
+      continue;
+    }
+    else
+    {
+      newarray[i] = array[i];
+      System.Console.Write(newarray[i] + ", ");
+    }
   }
-  else
-  {
-    newarray[i] = array[i];
-  }
-}
-return newarray;
+  return newarray;
 }
 
 
-
-
-string [] matrix = InputStringArray();
+string[] matrix = InputStringArray();
+System.Console.WriteLine("введенный массив:");
 PrintArray(matrix);
-string [] newmatrix = CheckStringArray (matrix);
-System.Console.WriteLine();
-PrintArray(newmatrix);
+System.Console.WriteLine("\n");
+CheckStringArray(matrix);

@@ -14,12 +14,36 @@ static string[] InputStringArray()
   return array;
 }
 
-// печать массива
+//2 печать массива
 void PrintArray (string [] array)
 {
   System.Console.WriteLine(String.Join(", ", array));
 }
 
-PrintArray(InputStringArray());
- 
+//3 проверка длины элементов массива
+string [] CheckStringArray (string [] array)
+{
+int size = array.Length; 
+string [] newarray = new string [size];
+for (int i = 0; i < size; i++)
+{
+  if (array[i].Length>3)
+  {
+    continue;
+  }
+  else
+  {
+    newarray[i] = array[i];
+  }
+}
+return newarray;
+}
 
+
+
+
+string [] matrix = InputStringArray();
+PrintArray(matrix);
+string [] newmatrix = CheckStringArray (matrix);
+System.Console.WriteLine();
+PrintArray(newmatrix);
